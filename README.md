@@ -9,13 +9,19 @@ An interactive Power BI dashboard developed to analyse financial transactions, i
 ## Dashboard Preview
 
 ### 1. Overview Dashboard
-![Overview](Dashboard_Screenshots/01_Overview.png)
+![Overview](Overview_Dashboard_ss.png)
 
 ### 2. Transaction Analysis
-![Transaction Analysis](Dashboard_Screenshots/02_Transaction_Analysis.png)
+![Transaction Analysis](Transaction_Analysis_Dashboard_ss.png)
 
 ### 3. Statistical Analysis
-![Statistical Analysis](Dashboard_Screenshots/03_Statistical_Analysis.png)
+![Statistical Analysis](Statistical_Analysis_ss.png)
+
+### 4. Risk Analysis
+![Risk Analysis](Risk_Analysis_ss.png)
+
+### 5. Time Series Analysis
+![Time Series Analysis](Time_Series_ss.png)
 
 ## Dataset
 - Total transactions: 50,000
