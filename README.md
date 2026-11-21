@@ -6,6 +6,17 @@ Interactive Fraud Detection and Transaction Risk Analysis using Power BI
 ## Project Overview
 An interactive Power BI dashboard developed to analyse financial transactions, identify fraudulent transactions, and understand transaction risk patterns.
 
+## Dashboard Preview
+
+### 1. Overview Dashboard
+![Overview](Dashboard_Screenshots/01_Overview.png)
+
+### 2. Transaction Analysis
+![Transaction Analysis](Dashboard_Screenshots/02_Transaction_Analysis.png)
+
+### 3. Statistical Analysis
+![Statistical Analysis](Dashboard_Screenshots/03_Statistical_Analysis.png)
+
 ## Dataset
 - Total transactions: 50,000
 - Fraud transactions: 83
